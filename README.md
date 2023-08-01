@@ -1,0 +1,2 @@
+# Ner.json
+["arda.kanerrr"]
