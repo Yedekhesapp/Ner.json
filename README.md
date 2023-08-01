@@ -1,2 +1,1 @@
-# Ner.json
 ["arda.kanerrr"]
